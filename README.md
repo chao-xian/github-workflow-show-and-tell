@@ -32,7 +32,7 @@ git checkout kelvs
 ```markdown
 This is about to be an awesome change but with typo!
 ```
-* Send a [Pull Request](https://help.github.com/articles/creating-a-pull-request)!
+* Send a [Pull Request](https://github.bath.ac.uk/mnskchg/github-workflow-show-and-tell/pulls)!
   * this is a request for someone who looks after `master` to incorporate  changes from the `kelvs` branch
 * Natt sees the Pull Request and checks for anything stupid
 * He writes a comment: *TYPO! FIX IT!* or similar
