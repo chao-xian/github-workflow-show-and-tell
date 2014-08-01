@@ -30,7 +30,7 @@ git checkout kelvs
 ```
 * And makes some changes
 ```markdown
-This is about to be an awesome change but with typo!
+This is ALL FIXED YAY!
 ```
 * Send a [Pull Request](https://github.bath.ac.uk/mnskchg/github-workflow-show-and-tell/pulls)!
   * this is a request for someone who looks after `master` to incorporate  changes from the `kelvs` branch
